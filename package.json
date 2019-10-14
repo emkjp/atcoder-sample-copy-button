@@ -1,0 +1,16 @@
+{
+  "name": "atcoder-inout-copy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Masaya Kiwada <kiwada@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.3.3",
+    "@typescript-eslint/parser": "^2.3.3",
+    "eslint": "^6.5.1",
+    "eslint-config-prettier": "^6.4.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "prettier": "^1.18.2",
+    "typescript": "^3.6.4"
+  }
+}
