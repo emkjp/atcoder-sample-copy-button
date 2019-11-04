@@ -1,6 +1,6 @@
 {
   "name": "AtcoderSampleCopy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest_version": 2,
   "description": "Add button to copy all sample inputs/outputs",
   "content_scripts": [{
